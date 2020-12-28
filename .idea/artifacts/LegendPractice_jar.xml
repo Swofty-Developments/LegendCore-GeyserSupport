@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LegendPractice:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LegendPractice.jar">
+      <element id="module-output" name="LegendPractice" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/Netherboard.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/fr/minuskube/netherboard-core/1.2.1/netherboard-core-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/fr/minuskube/netherboard-bukkit/1.2.1/netherboard-bukkit-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/Geyser.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
